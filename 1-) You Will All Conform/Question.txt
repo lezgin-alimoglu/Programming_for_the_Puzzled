@@ -1,5 +1,10 @@
-The question ask that a gatekeeper is tasked with managing a line of people at a baseball game. Each person in line is wearing a cap, and these caps can either be worn forward (denoted as "F") or backward (denoted as "B"). The gatekeeper's goal is to ensure uniformity in the way people wear their caps.
+The question ask that a gatekeeper is tasked with managing a line of people at a baseball game.
+Each person in line is wearing a cap, and these caps can either be worn forward (denoted as "F") or backward (denoted as "B"). 
+The gatekeeper's goal is to ensure uniformity in the way people wear their caps.
 
-To achieve this, the gatekeeper identifies intervals of people wearing their caps in the same orientation and determines which group of people (those wearing "F" or "B") has fewer intervals. The gatekeeper then instructs all members of the smaller group to flip their caps so that everyone in line eventually has their caps in the same orientation.
+To achieve this, the gatekeeper identifies intervals of people wearing their caps in the same orientation 
+and determines which group of people (those wearing "F" or "B") has fewer intervals. 
+The gatekeeper then instructs all members of the smaller group to flip their caps 
+so that everyone in line eventually has their caps in the same orientation.
 
 For details, look at "Programming for the Puzzked by Srini DEVADAS"
